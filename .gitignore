@@ -1,0 +1,11 @@
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
+.agents/
+.git/
+.venv/
+.venv_gpu/
+.venv_test/
+.venv_vila/
+*.Zone.Identifier
