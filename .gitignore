@@ -9,3 +9,5 @@ __pycache__/
 .venv_test/
 .venv_vila/
 *.Zone.Identifier
+
+models/aesthetic/icaa_dat_tf_native_fp16.tflite
